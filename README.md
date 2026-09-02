@@ -60,6 +60,8 @@ The demonstration model is trained from four example reviews when `model.py` is 
 Run the test suite with:
 
 ```powershell
+## Author
+Mudassir Ali
 pytest
 ```
 #
